@@ -1,6 +1,6 @@
-# Projekt startowy
+# Car Workshop project
 
-### Zespół deweloperski
+### Developer team
 
 - Hubert Pacyna
 - Piotr Wlazło
